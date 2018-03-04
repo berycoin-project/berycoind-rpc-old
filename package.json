@@ -1,7 +1,7 @@
 {
   "name": "berycoind-rpc",
   "description": "Berycoin Client Library to connect to Berycoin Core via RPC",
-  "version": "0.7.1",
+  "version": "0.7.7",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
